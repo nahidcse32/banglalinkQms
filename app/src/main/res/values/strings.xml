@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Banglalink QMS</string>
+
+    <string name="num_one" translatable="false">1</string>
+    <string name="num_two">2</string>
+    <string name="num_three">3</string>
+    <string name="num_four">4</string>
+    <string name="num_five">5</string>
+    <string name="num_six">6</string>
+    <string name="num_seven">7</string>
+    <string name="num_eight">8</string>
+    <string name="num_nine">9</string>
+    <string name="num_zero">0</string>
+
+    <string name="num_hint">019XX XXXXXX</string>
+
+    <string name="btn_skip">Skip</string>
+    <string name="btn_go"> Go </string>
+    <string name="btn_back">Back</string>
+    <string name="btn_sales">Sales</string>
+    <string name="btn_services">Services</string>
+    <string name="btn_token_list">Token List</string>
+    <string name="btn_sms">Sms</string>
+    <string name="btn_print">Print</string>
+    <string name="btn_home">Home</string>
+
+
+    <string name="enter_bl_number">Please Enter Your 11 Digit Moblie Number</string>
+    <string name="invalid_bl_number">Invalid Mobile Number</string>
+    <string name="select_an_option">Select an Option</string>
+
+</resources>

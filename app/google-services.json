@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "329101861388",
+    "firebase_url": "https://banglalink-qms.firebaseio.com",
+    "project_id": "banglalink-qms",
+    "storage_bucket": "banglalink-qms.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329101861388:android:f3fec24fb0ef3af0",
+        "android_client_info": {
+          "package_name": "com.sharnit.banglalinkqms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329101861388-0o3u6gsjihpk2c61s94lebl9bad0l4hf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApzorNDFOd0EffY1Pb2nA5wgQtfMl_HG4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

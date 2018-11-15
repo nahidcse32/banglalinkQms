@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:weightSum="6">
+
+
+    <TextView
+        android:id="@+id/tv_ta_token_no"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="@drawable/border_edt2"
+
+        android:gravity="center"
+        android:textColor="@color/yellow_dark"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/tv_ta_creation_time"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="@drawable/border_edt2"
+        android:gravity="center"
+        android:text=""
+        android:textColor="@color/yellow_dark" />
+
+    <TextView
+        android:id="@+id/tv_ta_mobile_no"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="@drawable/border_edt2"
+        android:gravity="center"
+        android:text=""
+        android:textColor="@color/yellow_dark" />
+
+    <TextView
+        android:id="@+id/tv_ta_status"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="@drawable/border_edt2"
+        android:gravity="center"
+        android:text=""
+        android:textColor="@color/yellow_dark" />
+
+    <Button
+        android:id="@+id/btn_ta_sms"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="@drawable/border_list"
+        android:gravity="center"
+        android:text="SMS"
+        android:textColor="@color/white" />
+
+    <Button
+        android:id="@+id/btn_ta_print"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="@drawable/border_list"
+        android:gravity="center"
+        android:text="Print"
+        android:textColor="@color/white" />
+</LinearLayout>
